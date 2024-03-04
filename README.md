@@ -3,6 +3,10 @@
 ## This is a project for sending jettons to the TON blockchain network
 
 ## Start
+```sh
+git clone https://github.com/VasyaIT/ContractApp.git
+cd ContractApp
+```
 
 ```sh
 npm install
