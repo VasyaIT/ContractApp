@@ -1,6 +1,6 @@
 # React + Vite
 
-## This is a project for sending jettons to the TON blockchain network
+## This is a project for sending jettons in the TON blockchain network
 
 ## Start
 ```sh
